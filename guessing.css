@@ -1,0 +1,40 @@
+.element {
+    text-align: center;
+}
+
+.para {
+    margin-top: 15vh;
+}
+
+.result {
+    display: none;
+    background-color: rgb(57, 210, 23);
+    font-size: 20px;
+}
+
+.wrong {
+    display: none;
+    background-color: red;
+    font-size: 20px;
+}
+
+.play {
+    display: none;
+}
+
+.again {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chance {
+    display: none;
+    background-color: red;
+    font-size: 20px;
+}
+
+.high, .low{
+    background-color: aqua;
+    display: none;
+}
